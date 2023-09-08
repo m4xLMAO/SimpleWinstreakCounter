@@ -1,4 +1,4 @@
-# Simple Winstreak Counter for Minecraft
+# Simple Winstreak Counter
 THIS PROGRAM IS SCANNED BY VIRUSTOTAL
 
 - This program is a simple winstreak counter built using Python and Tkinter. It allows you to track your winstreak and daily winstreak by pressing specific key combinations.
