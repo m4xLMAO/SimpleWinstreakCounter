@@ -4,7 +4,7 @@
 
 **What is this?** - This program is a simple winstreak counter built using Python and Tkinter. It allows you to track your winstreak and daily winstreak by pressing specific key combinations.
 
-**How to download:** Click the "<a href="https://github.com/m4xLMAO/SimpleWinstreakCounter/releases"> Releases </a>" link on the right, then on the latest release, under 'Assets' click to download "Source code (zip)". 
+**How to download:** Click the "<a href="https://github.com/m4xLMAO/SimpleWinstreakCounter/releases">Releases</a>" link on the right, then on the latest release, under 'Assets' click to download "Source code (zip)". 
 (You might have to click "Assets" to view the files for the release)
 
 **How to launch it?** - You can launch the SimpleCounterProgram.py file if you have Python installed.
@@ -17,7 +17,7 @@ To reset the winstreak and daily winstreak to 0, press Ctrl + r.
 Additionally, it will save the current date to the date.txt file, also located in the "Saves" folder. 
 When you reopen the program, it will read the saved values from these files and resume counting from where you left off.
 
-> THIS PROGRAM IS SCANNED BY VIRUSTOTAL <
+> This program is scanned with VirusTotal
 
 #  ©️ Copyright
 All rights are owned by the creator. 
