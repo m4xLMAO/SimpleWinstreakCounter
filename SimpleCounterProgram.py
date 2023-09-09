@@ -1,30 +1,24 @@
-print("Please Wait..." + "\n")
 import tkinter as tk
-print("- Loaded Tkiner..")
 import time
-print("- Loaded Time..")
 from datetime import date
-print("- Loaded Datetime..")
 from tkinter import PhotoImage
-print("- Loaded PhotoImage..")
 import os
-print("- Loaded os..")
 from PIL import Image, ImageTk
-print("- Loaded Images..")
-print(" ")
 import pygame
-print(" ")
-print("- Loaded Sounds..")
 from colorama import init, Fore, Back, Style
-print("- Loaded Colorama..")
-print("! Finished!" + "\n")
 
 init()
-
-print(Fore.GREEN + "Press 'Ctrl + p' to add +1")
-print(Fore.RED + "Press 'Ctrl + r' to make it 0" + "\n")
-print(Fore.YELLOW + "Made By maxLMAO" + "\n")
-print(Fore.LIGHTRED_EX + Back.GREEN + "// DO NOT CLOSE THIS WINDOW OR THE PROGRAM WILL CLOSE //")
+print(" ")
+print(Fore.YELLOW + "======================= SimpleCounterProgram V.1.2 =======================")
+print(Fore.WHITE + "============ https://github.com/m4xLMAO/SimpleWinstreakCounter ===========")
+print(Fore.WHITE + "================= Author: maxLMAO - youtube.com/@m4xLMAO =================")
+print(" ")
+print(Fore.WHITE + "Purpose: This program is a simple winstreak counter built using Python and Tkinter. \n         It allows you to track your winstreak and daily winstreak by pressing specific key combinations.")
+print(" ")
+print(Fore.WHITE + "How to use: To increase the winstreak and daily winstreak by 1, press Ctrl + p. To reset the winstreak and daily winstreak to 0, press Ctrl + r.")
+print(" ")
+print(Fore.RED + "NOTE: Do not close this window. Or the program will close.")
+print(" ")
 print(Style.RESET_ALL)
 
 
