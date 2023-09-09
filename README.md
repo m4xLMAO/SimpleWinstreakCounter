@@ -1,20 +1,23 @@
 # Simple Winstreak Counter
-THIS PROGRAM IS SCANNED BY VIRUSTOTAL
 
-- This program is a simple winstreak counter built using Python and Tkinter. It allows you to track your winstreak and daily winstreak by pressing specific key combinations.
+- This Program is made by maxLMAO
 
-- You can launch the SimpleCounterProgram.py file if you have Python installed.
+**What is this?** - This program is a simple winstreak counter built using Python and Tkinter. It allows you to track your winstreak and daily winstreak by pressing specific key combinations.
+
+**How to download:** Click the "<a href="https://github.com/m4xLMAO/SimpleWinstreakCounter/releases"> Releases </a>" link on the right, then on the latest release, under 'Assets' click to download "Source code (zip)". 
+(You might have to click "Assets" to view the files for the release)
+
+**How to launch it?** - You can launch the SimpleCounterProgram.py file if you have Python installed.
 Or you can launch the SimpleCounterProgram.exe file, this will run the application. 
 
-- To increase the winstreak and daily winstreak by 1, press Ctrl + p.
+**How to use it?** - To increase the winstreak and daily winstreak by 1, press Ctrl + p.
 To reset the winstreak and daily winstreak to 0, press Ctrl + r.
 
-- The program will automatically save the current winstreak and daily winstreak to the number.txt file, located in the "Saves" folder. 
+**How does it work?** The program will automatically save the current winstreak and daily winstreak to the number.txt file, located in the "Saves" folder. 
 Additionally, it will save the current date to the date.txt file, also located in the "Saves" folder. 
 When you reopen the program, it will read the saved values from these files and resume counting from where you left off.
 
-- This Program is made by maxLMAO. 
-You can contact me in discord! m4xLMAO
+> THIS PROGRAM IS SCANNED BY VIRUSTOTAL <
 
 #  ©️ Copyright
 All rights are owned by the creator. 
